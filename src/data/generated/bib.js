@@ -1,17 +1,92 @@
 ﻿const generatedBibEntries = {
-    "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
+    "Amini2024Speech": {
+        "author": "Amini, Sina and Heidari, Parisa and Hassanpour, Saeed",
+        "doi": "10.1007/s10462-024-10961-6",
+        "journal": "Artificial Intelligence Review",
+        "keywords": "type:survey, speech, Alzheimer, AI, NLP, datasets, challenges",
+        "title": "Speech based detection of Alzheimer's disease: a survey of AI techniques, datasets and challenges",
         "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
+        "year": "2024"
+    },
+    "Ford2023Ethics": {
+        "author": "Ford, Elizabeth and Milne, Richard and Curlewis, Keegan",
+        "doi": "10.1002/widm.1492",
+        "journal": "WIREs Data Mining and Knowledge Discovery",
+        "keywords": "type:survey, ethics, digital_biomarkers, dementia, AI, health_inequality",
+        "title": "Ethical issues when using digital biomarkers and artificial intelligence for the early detection of dementia",
+        "type": "article",
+        "year": "2023"
+    },
+    "Gallego2024EEG": {
+        "author": "Gallego-Vinaras, Lorena and Mira-Tomas, Juan Miguel and Gaeta, Anna Michela and Pinol-Ripoll, Gerard and Barbe, Ferran and Olmos, Pablo and Munoz-Barrutia, Arrate",
+        "doi": "10.48550/arXiv.2404.03549",
+        "journal": "arXiv",
+        "keywords": "type:deep_learning, EEG, sleep, Alzheimer, semi_supervised",
+        "title": "Alzheimer's Disease Detection in EEG Sleep Signals",
+        "type": "article",
+        "year": "2024"
+    },
+    "Muurling2022Social": {
+        "author": "Muurling, Marijn and Reus, Lianne and de Boer, Casper and Wessels, Sterre and Jagesar, Raj and Vorstman, Jacob and Kas, Martien and Visser, Pieter Jelle",
+        "doi": "10.2196/33856",
+        "journal": "JMIR Aging",
+        "keywords": "type:case_study, mobile_app, social_behavior, passive_monitoring, cognitive_impairment",
+        "title": "Assessment of Social Behavior Using a Passive Monitoring App in Cognitively Normal and Cognitively Impaired Older Adults",
+        "type": "article",
+        "year": "2022"
+    },
+    "Ntracha2020MCI": {
+        "author": "Ntracha, Anastasia and Iakovakis, Dimitrios and Hadjidimitriou, Stelios and Charisis, Vasileios and Tsolaki, Magda and Hadjileontiadis, Leontios",
+        "doi": "10.3389/fdgth.2020.567158",
+        "journal": "Frontiers in Digital Health",
+        "keywords": "type:machine_learning, NLP, typing, mobile_app, cognitive_impairment, digital_biomarkers",
+        "title": "Detection of Mild Cognitive Impairment Through Natural Language and Touchscreen Typing Processing",
+        "type": "article",
+        "year": "2020"
+    },
+    "Pacheco2024Voice": {
+        "author": "Pacheco-Lorenzo, Moises and Christensen, Heidi and Anido-Rifon, Luis and Fernandez-Iglesias, Manuel and Valladares-Rodriguez, Sonia",
+        "doi": "10.1109/ACCESS.2024.3442431",
+        "journal": "IEEE Access",
+        "keywords": "type:machine_learning, voice, cognitive_impairment, biomarkers, SVM",
+        "title": "Analysis of Voice Biomarkers for the Detection of Cognitive Impairment",
+        "type": "article",
+        "year": "2024"
+    },
+    "Piendel2023Mobile": {
+        "author": "Piendel, Lydia and Valis, Martin and Hort, Jakub",
+        "doi": "10.3389/fnagi.2023.1134096",
+        "journal": "Frontiers in Aging Neuroscience",
+        "keywords": "type:survey, mobile_app, Alzheimer, data_collection, passive_monitoring",
+        "title": "An update on mobile applications collecting data among subjects with or at risk of Alzheimer's disease",
+        "type": "article",
+        "year": "2023"
+    },
+    "Vrahatis2023Revolutionizing": {
+        "author": "Vrahatis, Aristidis and Skolariki, Konstantina and Krokidis, Marios and Lazaros, Konstantinos and Exarchos, Themis and Vlamos, Panagiotis",
+        "doi": "10.3390/s23094184",
+        "journal": "Sensors",
+        "keywords": "type:survey, non_invasive, biomarkers, deep_learning, Alzheimer, wearables",
+        "title": "Revolutionizing the Early Detection of Alzheimer's Disease through Non-Invasive Biomarkers: The Role of Artificial Intelligence and Deep Learning",
+        "type": "article",
+        "year": "2023"
+    },
+    "Xue2021Dementia": {
+        "author": "Xue, Chonghua and Karjadi, Cody and Paschalidis, Ioannis and Au, Rhoda and Kolachalama, Vijaya",
+        "doi": "10.1186/s13195-021-00888-3",
+        "journal": "Alzheimer's Research and Therapy",
+        "keywords": "type:deep_learning, voice, dementia, LSTM, CNN",
+        "title": "Detection of dementia on voice recordings using deep learning: a Framingham Heart Study",
+        "type": "article",
+        "year": "2021"
+    },
+    "Ying2023Multimodal": {
+        "author": "Ying, Youzheng and Yang, Tao and Zhou, Hang",
+        "doi": "10.1007/s10489-022-04255-z",
+        "journal": "Applied Intelligence",
+        "keywords": "type:deep_learning, multimodal, speech, Alzheimer, Wav2Vec, fusion",
+        "title": "Multimodal fusion for Alzheimer's disease recognition",
+        "type": "article",
+        "year": "2023"
     }
 };
