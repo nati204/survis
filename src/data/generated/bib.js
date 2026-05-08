@@ -17,14 +17,17 @@
         "type": "article",
         "year": "2023"
     },
-    "Gallego2024EEG": {
-        "author": "Gallego-Vinaras, Lorena and Mira-Tomas, Juan Miguel and Gaeta, Anna Michela and Pinol-Ripoll, Gerard and Barbe, Ferran and Olmos, Pablo and Munoz-Barrutia, Arrate",
-        "doi": "10.48550/arXiv.2404.03549",
-        "journal": "arXiv",
-        "keywords": "type:deep_learning, EEG, sleep, Alzheimer, semi_supervised",
+    "GallegoVinaras2025EEGSleep": {
+        "author": "Gallego-Vi{\\~n}ar{\\'a}s, Lorena and Mira-Tom{\\'a}s, Juan Miguel and Gaeta, Anna Michela and Pi{\\~n}ol-Ripoll, Gerard and Barb{\\'e}, Ferran and Olmos, Pablo M. and Mu{\\~n}oz-Barrutia, Arrate",
+        "doi": "10.1109/JBHI.2024.3478380",
+        "journal": "IEEE Journal of Biomedical and Health Informatics",
+        "keywords": "type:eeg, sleep_signals, alzheimers_disease, deep_learning, early_detection",
+        "number": "2",
+        "pages": "948--959",
         "title": "Alzheimer's Disease Detection in EEG Sleep Signals",
         "type": "article",
-        "year": "2024"
+        "volume": "29",
+        "year": "2025"
     },
     "Muurling2022Social": {
         "author": "Muurling, Marijn and Reus, Lianne and de Boer, Casper and Wessels, Sterre and Jagesar, Raj and Vorstman, Jacob and Kas, Martien and Visser, Pieter Jelle",
