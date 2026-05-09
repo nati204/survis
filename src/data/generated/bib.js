@@ -1,4 +1,15 @@
 ﻿const generatedBibEntries = {
+    "Ding2024Speech": {
+        "author": "Ding, Kewen and Chetty, Madhu and Noori Hoshyar, Azadeh and Bhattacharya, Tanusri and Klein, Britt",
+        "doi": "10.1007/s10462-024-10961-6",
+        "journal": "Artificial Intelligence Review",
+        "keywords": "type:survey, speech, Alzheimer, AI, NLP, datasets, challenges",
+        "number": "12",
+        "title": "Speech based detection of Alzheimer's disease: a survey of AI techniques, datasets and challenges",
+        "type": "article",
+        "volume": "57",
+        "year": "2024"
+    },
     "Ford2023Ethics": {
         "author": "Ford, Elizabeth and Milne, Richard and Curlewis, Keegan",
         "doi": "10.1002/widm.1492",
